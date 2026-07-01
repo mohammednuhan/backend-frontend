@@ -23,9 +23,6 @@ export function Dashboard(){
             <button style={{padding :"10px",margin:"10px",alignItems:"center"}}>Delete todo</button>
          </div>
         </div>  
-         
-        
-
         </div>
     )
 }
